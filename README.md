@@ -1,2 +1,17 @@
-# OTP_generator_verifier
-A simple OTP (One-Time Password) generator and verifier script in Python. This project allows users to generate a random OTP, send it to their email address, and verify the OTP to complete the verification process.
+# OTP Generator
+
+This is a simple OTP (One-Time Password) generator and verifier script in Python.
+
+## How to Use
+- Run `otp_gen_and_verify.py`.
+- Enter your name and email.
+- An OTP will be generated and sent to your email.
+- Enter the OTP to verify.
+
+## Requirements
+- Python 3.x
+- Packages: `pymysql`, `smtplib`
+
+## Author
+- Harshil
+
